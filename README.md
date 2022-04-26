@@ -1,1 +1,1 @@
-this is a `chars` repos
+this is a `charts` repos
