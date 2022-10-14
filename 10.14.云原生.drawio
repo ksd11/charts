@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T09:44:10.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.0" etag="YKD9Mf5lujQae1e6yw5n" type="github"><diagram id="XLM6k58kkG6W74G37iFd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-14T10:50:28.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="D13pJlC7_ABpwcOQ_HKL" version="20.4.1" type="github">
+  <diagram id="XLM6k58kkG6W74G37iFd" name="第 1 页">
+    <mxGraphModel dx="1038" dy="571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d3pQgc6xeR2teDPx2NKJ-3" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="400" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="d3pQgc6xeR2teDPx2NKJ-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.175;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.185;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d3pQgc6xeR2teDPx2NKJ-3" target="d3pQgc6xeR2teDPx2NKJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="410" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3pQgc6xeR2teDPx2NKJ-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.175;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.349;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="d3pQgc6xeR2teDPx2NKJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="350" as="sourcePoint" />
+            <mxPoint x="472.9200000000001" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3pQgc6xeR2teDPx2NKJ-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.175;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.551;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="d3pQgc6xeR2teDPx2NKJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="264.6" as="sourcePoint" />
+            <mxPoint x="360" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3pQgc6xeR2teDPx2NKJ-8" value="硬件：计算、网络、存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d3pQgc6xeR2teDPx2NKJ-9" value="容器/容器云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d3pQgc6xeR2teDPx2NKJ-10" value="应用: 微服务架构、无服务架构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d3pQgc6xeR2teDPx2NKJ-11" value="服务网格&lt;br&gt;DevOps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
