@@ -1,0 +1,64 @@
+<mxfile host="Electron" modified="2023-08-14T06:04:25.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="tnOTN-xLkv3LDshsN2mT" version="21.6.8" type="device">
+  <diagram name="第 1 页" id="IJ3702aMo-DQNvZRN9nD">
+    <mxGraphModel dx="863" dy="505" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B90kpQCLutK5rxdeEyO4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="B90kpQCLutK5rxdeEyO4-1" target="B90kpQCLutK5rxdeEyO4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-1" value="无fsck-info.ko&lt;br&gt;挂载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;startArrow=classic;startFill=1;" edge="1" parent="1" source="B90kpQCLutK5rxdeEyO4-2" target="B90kpQCLutK5rxdeEyO4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B90kpQCLutK5rxdeEyO4-2" target="B90kpQCLutK5rxdeEyO4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-2" value="f2fs文件系统" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="B90kpQCLutK5rxdeEyO4-3" target="B90kpQCLutK5rxdeEyO4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-3" value="fsck-info.ko&lt;br&gt;挂载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="245" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-4" value="无fsck-info.ko&lt;br&gt;挂载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-8" value="第一次挂载" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="190" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B90kpQCLutK5rxdeEyO4-15" target="B90kpQCLutK5rxdeEyO4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B90kpQCLutK5rxdeEyO4-15" target="B90kpQCLutK5rxdeEyO4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-15" value="是否一致？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="255" y="370" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-17" value="成功" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-18" value="失败" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="87" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-21" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-22" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-23" value="第二次挂载" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="187" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B90kpQCLutK5rxdeEyO4-24" value="第三次挂载" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="436" y="190" width="65" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
