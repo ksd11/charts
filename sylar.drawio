@@ -1,9 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T03:55:47.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.0.7" etag="JUTwW_5gqbihylZau_A5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-24T04:12:04.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4fvMxVyusCzbR5qmHnba" version="24.0.7" type="github">
   <diagram name="第 1 页" id="zA73b5mzPIkbRHoxlWGf">
-    <mxGraphModel>
+    <mxGraphModel dx="910" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="esbTOw2XiDLr5rkifYrj-1" value="LogLevel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-2" value="Logger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="102" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-3" value="LogEvent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-4" value="LogEventWrapper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-5" value="LogFormatter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-6" value="FormatItem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-7" value="LogAppender" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-8" value="StdoutLogAppender" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-9" value="FileLogAppender" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-11" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="esbTOw2XiDLr5rkifYrj-8" target="esbTOw2XiDLr5rkifYrj-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="300" y="540" as="sourcePoint" />
+            <mxPoint x="460" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-13" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="esbTOw2XiDLr5rkifYrj-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="410" as="sourcePoint" />
+            <mxPoint x="420" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-14" value="LoggerManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="18" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-15" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="esbTOw2XiDLr5rkifYrj-14" target="esbTOw2XiDLr5rkifYrj-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="390" y="242" as="sourcePoint" />
+            <mxPoint x="550" y="242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-16" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="esbTOw2XiDLr5rkifYrj-4" target="esbTOw2XiDLr5rkifYrj-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="270" as="sourcePoint" />
+            <mxPoint x="230" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-18" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="esbTOw2XiDLr5rkifYrj-6" target="esbTOw2XiDLr5rkifYrj-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="120" as="sourcePoint" />
+            <mxPoint x="1060" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-19" value="StringFormatItem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-20" value="DateTimeFormatItem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-21" value="TabFormatItem..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-22" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="esbTOw2XiDLr5rkifYrj-19" target="esbTOw2XiDLr5rkifYrj-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="330" as="sourcePoint" />
+            <mxPoint x="870" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-23" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="esbTOw2XiDLr5rkifYrj-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="800" y="240" as="sourcePoint" />
+            <mxPoint x="870" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-24" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="esbTOw2XiDLr5rkifYrj-21" target="esbTOw2XiDLr5rkifYrj-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="870" y="480" as="sourcePoint" />
+            <mxPoint x="960" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-27" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="esbTOw2XiDLr5rkifYrj-2" target="esbTOw2XiDLr5rkifYrj-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="530" y="80" as="sourcePoint" />
+            <mxPoint x="690" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-28" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="esbTOw2XiDLr5rkifYrj-2" target="esbTOw2XiDLr5rkifYrj-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="190" as="sourcePoint" />
+            <mxPoint x="660" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-29" value="1.使用LoggerManager获得一个logger" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-30" value="2.logger初始化时设置appender和formatter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-31" value="3.设置formatter时会根据传递的format参数创建formatItem（init函数）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esbTOw2XiDLr5rkifYrj-32" value="4.事件发生时创建一个LogEvent对象，该对象在析构时会调用Logger.log方法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
