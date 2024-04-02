@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T07:55:17.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="kgcR3wYAkao6SroRGap7" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T07:56:05.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9lzX5hx47lEF1iLzQqyV" version="24.0.7" type="github">
   <diagram name="第 1 页" id="zA73b5mzPIkbRHoxlWGf">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -478,8 +478,8 @@
         <mxCell id="irQvSY6BKy0pe55uh85c-76" value="stream读写" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="2180" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="irQvSY6BKy0pe55uh85c-78" value="revRequest/sendResponse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="409" y="1853" width="60" height="30" as="geometry" />
+        <mxCell id="irQvSY6BKy0pe55uh85c-78" value="recvRequest&lt;div&gt;sendResponse&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1843" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="irQvSY6BKy0pe55uh85c-79" value="servlet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1953" width="120" height="60" as="geometry" />
@@ -487,8 +487,8 @@
         <mxCell id="irQvSY6BKy0pe55uh85c-81" value="handle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="1943" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="irQvSY6BKy0pe55uh85c-83" value="revResponse/sendRequest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1833" width="60" height="30" as="geometry" />
+        <mxCell id="irQvSY6BKy0pe55uh85c-83" value="recvResponse&lt;div&gt;sendRequest&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1820" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="irQvSY6BKy0pe55uh85c-93" value="对stream解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="2150" width="90" height="30" as="geometry" />
