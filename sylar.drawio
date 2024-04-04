@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T16:36:09.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cjM8Rk3ZlGUNJOScvNKr" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T02:11:38.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="i8OLozP2A4yNQJoN0cer" version="24.2.1" type="github">
   <diagram name="第 1 页" id="zA73b5mzPIkbRHoxlWGf">
-    <mxGraphModel dx="1071" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="458" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="esbTOw2XiDLr5rkifYrj-5" value="LogFormatter" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="740" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="28" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="esbTOw2XiDLr5rkifYrj-6" value="FormatItem" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="740" y="130" width="120" height="60" as="geometry" />
@@ -119,10 +119,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="esbTOw2XiDLr5rkifYrj-29" value="1.使用LoggerManager获得一个logger" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="30" width="70" height="30" as="geometry" />
+          <mxGeometry x="190" y="28" width="172" height="32" as="geometry" />
         </mxCell>
         <mxCell id="esbTOw2XiDLr5rkifYrj-30" value="2.logger初始化时设置appender和formatter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="120" width="70" height="30" as="geometry" />
+          <mxGeometry x="198" y="117" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="esbTOw2XiDLr5rkifYrj-31" value="3.设置formatter时会根据传递的format参数创建formatItem（init函数）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="868" y="46" width="147" height="30" as="geometry" />
@@ -498,6 +498,33 @@
               <mxPoint x="360" y="2250" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BffFLhWRC1GuTfFtGiNI-1" value="ConfigVarBase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="2460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BffFLhWRC1GuTfFtGiNI-2" value="ConfigVar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="2579" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BffFLhWRC1GuTfFtGiNI-3" value="Config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="2685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BffFLhWRC1GuTfFtGiNI-4" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BffFLhWRC1GuTfFtGiNI-2" target="BffFLhWRC1GuTfFtGiNI-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="2630" as="sourcePoint" />
+            <mxPoint x="410" y="2630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BffFLhWRC1GuTfFtGiNI-6" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BffFLhWRC1GuTfFtGiNI-3" target="BffFLhWRC1GuTfFtGiNI-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="35" y="2782" as="sourcePoint" />
+            <mxPoint x="195" y="2782" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BffFLhWRC1GuTfFtGiNI-8" value="map={k1:v1, k2:v2,..}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="186" y="2651" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BffFLhWRC1GuTfFtGiNI-9" value="listener" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2589" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
