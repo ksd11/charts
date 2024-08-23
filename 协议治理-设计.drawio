@@ -252,6 +252,15 @@
         <mxCell id="E8HGXAw2fkti96cfrxgh-113" value="提交到dev" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="770" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="E8HGXAw2fkti96cfrxgh-114" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.038;entryY=0.796;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E8HGXAw2fkti96cfrxgh-111" target="E8HGXAw2fkti96cfrxgh-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="920" as="sourcePoint" />
+            <mxPoint x="340" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E8HGXAw2fkti96cfrxgh-115" value="schema仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="660" width="75" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
