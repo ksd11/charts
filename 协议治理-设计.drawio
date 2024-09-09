@@ -1622,22 +1622,12 @@
           <mxGeometry x="280.5" y="4724" width="67" height="67" as="geometry" />
         </mxCell>
         <mxCell id="rR5JXbFDMYqsQofv4qGl-390" value="协议接口人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="184" y="4570" width="30" height="60" as="geometry" />
+          <mxGeometry x="182" y="4570" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rR5JXbFDMYqsQofv4qGl-391" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF0A0A;labelBackgroundColor=#FF0A0A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rR5JXbFDMYqsQofv4qGl-394">
+        <mxCell id="rR5JXbFDMYqsQofv4qGl-391" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF0A0A;labelBackgroundColor=#FF0A0A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rR5JXbFDMYqsQofv4qGl-390" target="rR5JXbFDMYqsQofv4qGl-394">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="218" y="4642" as="sourcePoint" />
             <mxPoint x="235" y="4830" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rR5JXbFDMYqsQofv4qGl-393" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="rR5JXbFDMYqsQofv4qGl-380">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="498" y="4756" as="sourcePoint" />
-            <mxPoint x="172" y="4841" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="498" y="4816" />
-              <mxPoint x="443" y="4816" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rR5JXbFDMYqsQofv4qGl-394" value="登记" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1650,7 +1640,7 @@
           <mxGeometry x="477" y="4722" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rR5JXbFDMYqsQofv4qGl-397" value="任一策略方有异议，线下联系开发人员修改" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="401" y="4811" width="207" height="30" as="geometry" />
+          <mxGeometry x="363.5" y="4958" width="207" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rR5JXbFDMYqsQofv4qGl-400" value="开发人员可以重新上传pb或更新dev" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="136" y="4685" width="195" height="30" as="geometry" />
@@ -1675,7 +1665,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rR5JXbFDMYqsQofv4qGl-408" value="协议接口人修改" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="246.5" y="4831" width="101" height="30" as="geometry" />
+          <mxGeometry x="240.5" y="4832" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rR5JXbFDMYqsQofv4qGl-409" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="294" y="3963" width="60" height="30" as="geometry" />
@@ -1687,7 +1677,7 @@
           <mxGeometry x="360" y="3713.5" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rR5JXbFDMYqsQofv4qGl-412" value="开发人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="287.75" y="4562" width="30" height="60" as="geometry" />
+          <mxGeometry x="347" y="4557" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rR5JXbFDMYqsQofv4qGl-413" value="策略方" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="488.5" y="4557" width="30" height="60" as="geometry" />
@@ -1904,6 +1894,42 @@
         </mxCell>
         <mxCell id="rR5JXbFDMYqsQofv4qGl-482" value="所有权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="421" y="5440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rR5JXbFDMYqsQofv4qGl-484" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="4793" as="sourcePoint" />
+            <mxPoint x="445" y="4789.966401061363" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="4821" />
+              <mxPoint x="445" y="4821" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rR5JXbFDMYqsQofv4qGl-486" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="4791" as="sourcePoint" />
+            <mxPoint x="305" y="4787.966401061363" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="435" y="4819" />
+              <mxPoint x="305" y="4819" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rR5JXbFDMYqsQofv4qGl-487" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.676;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rR5JXbFDMYqsQofv4qGl-379">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="4791" as="sourcePoint" />
+            <mxPoint x="206.03999999999996" y="4773.962" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="435" y="4819" />
+              <mxPoint x="198" y="4819" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rR5JXbFDMYqsQofv4qGl-488" value="开发人员有异议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="4813" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rR5JXbFDMYqsQofv4qGl-491" value="协议接口人有异议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="261" y="4811" width="101" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
