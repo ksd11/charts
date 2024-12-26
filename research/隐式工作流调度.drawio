@@ -924,7 +924,7 @@
         <mxCell id="4lkgSBnJgcppSlId6tgm-269" value="sync" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="725" y="2275" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4lkgSBnJgcppSlId6tgm-270" value="Actor-critic, off policy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4lkgSBnJgcppSlId6tgm-270" value="Actor-critic, on policy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="29" y="2390" width="141" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4lkgSBnJgcppSlId6tgm-271" value="DQN, off policy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
