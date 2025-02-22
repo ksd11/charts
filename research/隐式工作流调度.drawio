@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4lkgSBnJgcppSlId6tgm-200" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1680" width="200" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="4lkgSBnJgcppSlId6tgm-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1106" y="300" width="520" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke-IHwIRSBFMopIi6QRG-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="525" width="71.34" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="4lkgSBnJgcppSlId6tgm-200" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1680" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4lkgSBnJgcppSlId6tgm-71" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22waiting%20time%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22520%22%20y%3D%22590%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry y="640" width="530" height="160" as="geometry" />
@@ -1217,10 +1220,19 @@
           <mxGeometry x="500" y="2800" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ke-IHwIRSBFMopIi6QRG-1" value="layer list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1066" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="1116" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ke-IHwIRSBFMopIi6QRG-2" value="task execution list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1234" y="600" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke-IHwIRSBFMopIi6QRG-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="650" as="sourcePoint" />
+            <mxPoint x="1120" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ke-IHwIRSBFMopIi6QRG-6" value="维护laye缓存策略" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="645" width="104" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
