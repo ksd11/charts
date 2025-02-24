@@ -500,6 +500,9 @@
         <mxCell id="pUOc-OPtA9ByPZ5m1enT-140" value="executor信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1780" y="1020" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-141" value="不固定数量的dag到达" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="740" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
