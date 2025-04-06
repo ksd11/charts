@@ -831,31 +831,31 @@
         <mxCell id="pUOc-OPtA9ByPZ5m1enT-255" value="feature之间关联 * N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="736" y="1670" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pUOc-OPtA9ByPZ5m1enT-258" value="拉取镜像&lt;div&gt;(80%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-258" value="拉取镜像&lt;div&gt;(80%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
           <mxGeometry x="920" y="2118" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pUOc-OPtA9ByPZ5m1enT-259" value="启动容器&lt;div&gt;（20%）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-259" value="启动容器&lt;div&gt;（20%）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
           <mxGeometry x="1120" y="2118" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pUOc-OPtA9ByPZ5m1enT-260" value="执行函数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-260" value="执行函数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
           <mxGeometry x="1170" y="2118" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pUOc-OPtA9ByPZ5m1enT-263" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-263" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
           <mxGeometry x="1036.99" y="2060.81" width="20" height="240.41" as="geometry" />
         </mxCell>
-        <mxCell id="pUOc-OPtA9ByPZ5m1enT-264" value="冷启动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-264" value="冷启动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
           <mxGeometry x="1017" y="2185" width="60" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="pUOc-OPtA9ByPZ5m1enT-274" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-274" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
           <mxGeometry x="921" y="2090" width="249" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pUOc-OPtA9ByPZ5m1enT-275" value="几十秒" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-275" value="几十秒" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
           <mxGeometry x="1010.49" y="2085" width="60" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="pUOc-OPtA9ByPZ5m1enT-276" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-276" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
           <mxGeometry x="1170" y="2090" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pUOc-OPtA9ByPZ5m1enT-277" value="一秒" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-277" value="一秒" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
           <mxGeometry x="1165" y="2084" width="60" height="14" as="geometry" />
         </mxCell>
         <mxCell id="pUOc-OPtA9ByPZ5m1enT-278" value="max_exist_layer_download_time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
