@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="Xd1qZZC7ssqvjm3YN2iF">
-    <mxGraphModel dx="693" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="462" dy="353" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1770,6 +1770,128 @@
         </mxCell>
         <mxCell id="pUOc-OPtA9ByPZ5m1enT-627" value="off-&amp;gt;on" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1868.96" y="2485" width="117" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-634" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="882" y="2439.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-635" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="907" y="2439.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-636" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="932" y="2439.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-637" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1" source="pUOc-OPtA9ByPZ5m1enT-634" target="pUOc-OPtA9ByPZ5m1enT-635">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="852" y="2526.5" as="sourcePoint" />
+            <mxPoint x="902" y="2476.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-638" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="921" y="2446.5" as="sourcePoint" />
+            <mxPoint x="932" y="2446.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-639" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="946" y="2446.3" as="sourcePoint" />
+            <mxPoint x="957" y="2446.3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-640" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="957.5" y="2439.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-641" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="982.5" y="2439.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-642" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="1007.5" y="2439.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-643" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1" source="pUOc-OPtA9ByPZ5m1enT-640" target="pUOc-OPtA9ByPZ5m1enT-641">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="927.5" y="2526.5" as="sourcePoint" />
+            <mxPoint x="977.5" y="2476.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-644" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="996.5" y="2446.5" as="sourcePoint" />
+            <mxPoint x="1007.5" y="2446.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-645" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1021.5" y="2446.3" as="sourcePoint" />
+            <mxPoint x="1032.5" y="2446.3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-646" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="982" y="2460.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-647" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="2460.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-648" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="2460.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-649" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1" source="pUOc-OPtA9ByPZ5m1enT-646" target="pUOc-OPtA9ByPZ5m1enT-647">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="952" y="2547.5" as="sourcePoint" />
+            <mxPoint x="1002" y="2497.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-650" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1021" y="2467.5" as="sourcePoint" />
+            <mxPoint x="1032" y="2467.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-651" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="1033" y="2439.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-652" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1" source="pUOc-OPtA9ByPZ5m1enT-653" target="pUOc-OPtA9ByPZ5m1enT-655">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-653" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="981.77" y="2417.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-654" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1" source="pUOc-OPtA9ByPZ5m1enT-655" target="pUOc-OPtA9ByPZ5m1enT-656">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-655" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="1006.98" y="2417.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-656" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="2417.5" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-657" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1" source="pUOc-OPtA9ByPZ5m1enT-646" target="pUOc-OPtA9ByPZ5m1enT-640">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="914" y="2519.5" as="sourcePoint" />
+            <mxPoint x="964" y="2469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-658" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1" source="pUOc-OPtA9ByPZ5m1enT-653" target="pUOc-OPtA9ByPZ5m1enT-640">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="991.77" y="2386" as="sourcePoint" />
+            <mxPoint x="968.25" y="2407" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-659" value="购物车服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="1076.98" y="2458.5" width="48.96" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-660" value="订单服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="1076.06" y="2436" width="52.96" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-661" value="用户服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="2413" width="56.96" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-662" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" edge="1" parent="1" target="pUOc-OPtA9ByPZ5m1enT-663">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1045.98" y="2425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUOc-OPtA9ByPZ5m1enT-663" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Noto Sans SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="2417.5" width="14" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
